@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack developer trainee at NxtWave</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9e6fd269bd679257e2f85d8520ca75fa3bcf3f29fbcee3db65b763ef144cb653/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032322f30392f5048502d446576656c6f706572732e676966"/>
 
-- 🔭 I’m currently working on [Nxt Trendz ( ECommerce Clone - Amazon, Flipkart)](https://umakanth100.ccbp.tech/)
+- 🔭 I’m currently working on [Movies App (Netflix/Amazon Prime Clone)](https://umakanthkaspa5m.ccbp.tech/)
 
 - 🌱 I’m currently learning **React.js**
 
