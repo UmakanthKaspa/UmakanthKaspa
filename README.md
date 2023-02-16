@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **MEAN, Python**
+- 💬 Ask me about **MEAN, Python** 
 
 - 📫 How to reach me **kaspaumakanth1999@gmail.com**
 
