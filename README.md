@@ -11,7 +11,7 @@ a 💻 Fun-Loving 😄😄 Passionate 🔥🔥 and growth-oriented 🌱🚀 Full
 
 
 - 🌱 I’m currently learning **Frappe/ERPNext**. 🚀
-- 💬 Ask me about **MERN, Python, JavaScript,Frappe/ERPNext. 💡
+- 💬 Ask me about **MERN, Python, JavaScript,Frappe/ERPNext 💡
 - 📫 How to reach me: **kaspaumakanth1999@gmail.com** 📧
 
 ## <span style="color:#ff69b4">Connect with Me</span>
