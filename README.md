@@ -6,7 +6,13 @@
 
 ## <span style="color:#ff69b4">About Me</span>
 
-a 💻 Fun-Loving 😄😄 Passionate 🔥🔥 and growth-oriented 🌱🚀 Full Stack Developer Intern on a learning journey! 💡💪 Mastering the art of code and embracing new tech with a smile! 😄 With a fiery passion for coding, I dive deep into the world of programming, crafting innovative solutions that leave a lasting impact. From Python 🐍 to JavaScript 🚀, I'm always ready to take on new challenges and explore the exciting possibilities of the tech world! 🔥🔥🔥
+## <span style="color:#ff69b4">🚀 Software Engineer | Full Stack Developer | Embracing the Coding Journey 🌱</span>
+
+I'm a <span style="font-style: italic; color:#3366cc; font-weight: bold;">fun-loving</span>, <span style="font-style: italic; color:#3366cc; font-weight: bold;">passionate</span>, and <span style="font-style: italic; color:#3366cc; font-weight: bold;">growth-oriented</span> individual on a journey to <span style="font-style: italic; color:#3366cc; font-weight: bold;">improve my skills</span> and <span style="font-style: italic; color:#3366cc; font-weight: bold;">reach new heights</span> in the world of software engineering. As a former <span style="font-style: italic; color:#3366cc; font-weight: bold;">mechanical engineer</span>, I never imagined that coding would become so <span style="font-style: italic; color:#3366cc; font-weight: bold;">addictive</span> and this much <span style="font-style: italic; color:#3366cc; font-weight: bold;">fun</span>!
+
+💻 <span style="font-style: italic; color:#3366cc; font-weight: bold;">From Python 🐍 to JavaScript 🚀</span>, and diving into the intricacies of <span style="font-style: italic; color:#3366cc; font-weight: bold;">MySQL 🗄️</span>, I'm always eager to take on <span style="font-style: italic; color:#3366cc; font-weight: bold;">fresh challenges</span>. It's amazing how just sitting with a <span style="font-style: italic; color:#3366cc; font-weight: bold;">laptop</span> and a <span style="font-style: italic; color:#3366cc; font-weight: bold;">Jio net pack</span> can lead to such <span style="font-style: italic; color:#3366cc; font-weight: bold;">incredible adventures</span>.
+
+🖥️ Whether it's the <span style="font-style: italic; color:#3366cc; font-weight: bold;">front-end</span>, <span style="font-style: italic; color:#3366cc; font-weight: bold;">back-end</span>, or <span style="font-style: italic; color:#3366cc; font-weight: bold;">databases</span>, I'm all in. Code, create, and <span style="font-style: italic; color:#3366cc; font-weight: bold;">caffeinate ☕️</span> - the three C's that fuel my journey to develop <span style="font-style: italic; color:#3366cc; font-weight: bold;">exceptional software solutions</span>.
 
 
 
