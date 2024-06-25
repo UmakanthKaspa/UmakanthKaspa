@@ -57,5 +57,5 @@ Here are some of the languages and tools I work with:
 ---
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=umakanthkaspa&icon=0&color=0)
-
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
