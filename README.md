@@ -1,16 +1,18 @@
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff69b4&lines=Hello+World!+🌍;+I'm+Umakanth+Kaspa!;+👨‍💻+Full+Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Umakanth+Kaspa!;+👨‍💻+Full+Stack+Developer;" />
 </h1>
 
 
-![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/9e6fd269bd679257e2f85d8520ca75fa3bcf3f29fbcee3db65b763ef144cb653/68747470733a2f2f646576746563686e6f7379732e636f6d2f696e7369676874732f77702d636f6e74656e742f75706c6f6164732f323032322f30392f5048502d446576656c6f706572732e676966"/>
+
+
+![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+
 
 ## <span style="color:#ff69b4">About Me</span>
 
 ## <span style="color:#ff69b4">🚀 Software Engineer | Full Stack Developer | Embracing the Coding Journey 🌱</span>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 
 👨‍💻 A fun-loving, passionate, and growth-oriented individual on a journey to improve my skills and reach new heights in the world of software engineering. I began as a mechanical engineer, never imagining that lines of code would be this much fun and addictive. Back in my mechanical engineering days, I thought coding was akin to rocket science, but now, I realize that with a laptop, some internet, and a bit of googling skills, we can accomplish so much right from the comfort of our homes.
 
