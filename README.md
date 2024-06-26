@@ -59,7 +59,7 @@ Hi there! I'm Umakanth Kaspa, a passionate full stack developer who transitioned
 ### 🌐 Connect with Me
 
 <p align="center">
-    <a href="[www.linkedin.com/in/umakanth-kaspa](https://www.linkedin.com/in/umakanth-kaspa/)" target="_blank">
+    <a href="https://www.linkedin.com/in/umakanth-kaspa/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.hackerrank.com/kaspaumakanth191" target="_blank">
