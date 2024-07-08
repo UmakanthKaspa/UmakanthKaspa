@@ -35,7 +35,7 @@ Hi there! I'm Umakanth Kaspa, a passionate full stack developer who transitioned
 
 <p align="center" style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<!--     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
@@ -52,7 +52,7 @@ Hi there! I'm Umakanth Kaspa, a passionate full stack developer who transitioned
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
     <img src="https://img.shields.io/badge/REST%20APIs-ff6699?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
     <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20in%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Object Oriented Programming in Python" />
-</p>
+</p> -->
 
 ---
 
