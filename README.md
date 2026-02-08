@@ -1,93 +1,72 @@
-<p align="right">
-	<img src="https://visitcount.itsvg.in/api?id=umakanthkaspa&icon=0&color=0" alt="Visitor Count" style="float: right;" />
-</p> 
+## Hey, I'm Umakanth 👋
 
-<p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+🌍;+I'm+Umakanth+Kaspa!;+👨‍💻+Full+Stack+Developer;" />
+**Software Engineer** building production Frappe/ERPNext systems at **Parason Machinery**
+
+I automate boring business processes so teams can focus on real work. Mechanical Engineer turned developer — got hooked after seeing Python automate WhatsApp messages in a YouTube Short. Never looked back.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/umakanth-kaspa)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kaspaumakanth1999@gmail.com)
+[![GitHub](https://img.shields.io/badge/PRs_Merged-86-059669?style=flat&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged)
+
+---
+
+### 🔧 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=flat-square&logo=frappe&logoColor=white" />
+  <img src="https://img.shields.io/badge/ERPNext-0089FF?style=flat-square&logo=erpnext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+**Integrations:** Microsoft Graph API · ICICI Bank API · Twilio · Apollo.io · SalesLoft · DocuSign
 
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" width="100%" height="300" />
-</p>
+---
 
+### 🌍 Open Source
 
-# 🚀 About Me
+I actively contribute to the Frappe ecosystem. When I find a bug or see room for improvement, I fix it and submit a PR.
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
+<div align="center">
 
-### 👨‍💻 Software Engineer | Full Stack Developer | Coding Enthusiast 🌱
+`106 PRs submitted` · `86 merged` · `81.1% merge rate`
 
-Hi there! I'm Umakanth Kaspa, a passionate full stack developer who transitioned from mechanical engineering to the exciting world of software development.
+</div>
 
-- 🔄 **Career Shift**: From mechanical gears to digital code, I've made the exciting shift to software development.
-- 🌱 **Current Focus**: Diving deep into Frappe/ERPNext, honing my skills in Python, JavaScript, and exploring new technologies.
-- 🚀 **Passion**: Building efficient and robust ERP solutions, and solving complex coding challenges.
-  
-<br/> 
+| Repository | Merged |
+|:-----------|:------:|
+| [frappe/frappe](https://github.com/frappe/frappe/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **23** |
+| [frappe/insights](https://github.com/frappe/insights/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **21** |
+| [BuildWithHussain/buzz](https://github.com/BuildWithHussain/buzz/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **10** |
+| [frappe/crm](https://github.com/frappe/crm/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **9** |
+| [The-Commit-Company/raven](https://github.com/The-Commit-Company/raven/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **9** |
+| [frappe/erpnext](https://github.com/frappe/erpnext/pulls?q=is%3Apr+author%3AUmakanthKaspa+is%3Amerged) | **5** |
 
-## <span style="color:#ff69b4"> 🛠️ Languages and Tools</span>
+**Notable PRs:**
+- [Dynamic expressions in workflow `update_value` field](https://github.com/frappe/frappe/pull/34354) — frappe/frappe #34354
+- [Secure variable support for Query V3 script execution](https://github.com/frappe/insights/pull/568) — frappe/insights #568
 
-### 💼 Specialized In:
-<p align="" style="display: flex; flex-wrap: wrap;">
-	<img src="https://img.shields.io/badge/Frappe-2E69D0?style=for-the-badge&logo=frappe&logoColor=white" alt="Frappe" />
-	<img src="https://img.shields.io/badge/ERPNext-3DDC84?style=for-the-badge&logo=erpnext&logoColor=white" alt="ERPNext" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+---
 
-### 🛠️ Proficient In:
-<p align="" style="display: flex; flex-wrap: wrap;">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-	<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
+### 📦 Featured Project
 
-### 🌱 Familiar but Infrequently Used:
-<p align="" style="display: flex; flex-wrap: wrap;">
-	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-	<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-	<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-	<img src="https://img.shields.io/badge/Jinja-000000?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
-	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+<a href="https://github.com/UmakanthKaspa/frappe_mail_365">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmakanthKaspa&repo=frappe_mail_365&theme=default&hide_border=true" />
+</a>
 
-</p>
-<!-- <p align="center" style="display: flex; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/REST%20APIs-ff6699?style=for-the-badge&logo=rest&logoColor=white" alt="REST APIs" />
-    <img src="https://img.shields.io/badge/Object%20Oriented%20Programming%20in%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Object Oriented Programming in Python" />
-</p> -->
+> Send/receive emails in Frappe via Microsoft Graph API instead of SMTP/IMAP. Solves the email threading issue that's still an open problem in the Frappe community. ⭐ 7 stars
 
-<h1></h1>
-
-### 🌐 Connect with Me
-
-<p align="">
-	<a href="https://www.linkedin.com/in/umakanth-kaspa/" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-	</a>
-<!-- 	<a href="https://www.hackerrank.com/kaspaumakanth191" target="_blank">
-		<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-	</a> -->
-	<a href="mailto:kaspaumakanth1999@gmail.com">
-		<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-	</a>
-</p>
-
-<h1></h1>
+---
 
 ### 📊 GitHub Stats
 
-<p align="">
-	<img src="https://github-readme-stats.vercel.app/api?username=umakanthkaspa&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-		alt="GitHub Stats" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=umakanthkaspa&theme=radical&hide_border=true"
-		alt="GitHub Streak" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umakanthkaspa&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
-		alt="Top Languages" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmakanthKaspa&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=stars&icon_color=059669&text_color=374151&title_color=0F172A" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmakanthKaspa&layout=compact&hide_border=true&text_color=374151&title_color=0F172A&hide=html,css,scss" height="165" />
 </p>
