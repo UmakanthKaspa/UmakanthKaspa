@@ -12,6 +12,4 @@ $ git push upstream
 
 #### `mkdir other`
 
-[frappe_mail_365](https://github.com/UmakanthKaspa/frappe_mail_365) — frappe app for email via graph api
-
-also contributed to some apps in the frappe ecosystem
+[frappe_mail_365](https://github.com/UmakanthKaspa/frappe_mail_365) — frappe app for email via graph api also contributed to some apps in the frappe ecosystem
